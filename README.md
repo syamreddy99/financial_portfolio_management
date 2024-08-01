@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 ## **Get Client by ID**: Retrieves a client by its ID.
 - Example: `GET http://localhost:9988/api/clients`
 
-![Get Client by ID](https://via.placeholder.com/150)
+![Get Client by ID](https://github.com/syamreddy99/images-/blob/main/Screenshot%20(57).png?raw=true)
 
 ## **Create a New Client**: Creates a new client.
 `POST http://localhost:9988/api/clients`
