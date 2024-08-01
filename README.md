@@ -23,7 +23,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## 📊 API Endpoints
 ### Clients 👥
-### Portfolio Management
 - **Get All Clients**: Retrieves a list of all clients.
 - GET /api/clients: `GET http://localhost:9988/api/clients`
 ![Get All Clients](https://github.com/syamreddy99/images-/blob/main/Screenshot%20(56).png?raw=true)
