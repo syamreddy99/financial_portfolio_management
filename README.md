@@ -27,7 +27,8 @@ Before you begin, ensure you have met the following requirements:
 - GET /api/clients: `GET http://localhost:9988/api/clients`
 ![Get All Clients](https://github.com/syamreddy99/images-/blob/main/Screenshot%20(56).png?raw=true)
 
-## **Get Client by ID**: Retrieves a client by its ID.
+## **Get Client by ID**: 
+### Retrieves a client by its ID.
 - Example: `GET http://localhost:9988/api/clients`
 
 ![Get Client by ID](https://github.com/syamreddy99/images-/blob/main/Screenshot%20(57).png?raw=true)
